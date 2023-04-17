@@ -1,2 +1,2 @@
 # CodeVault
-My personal code vault with all of my major projects
+My personal repository that includes all of my major projects
