@@ -1,2 +1,2 @@
-# CodeVault
-My personal repository that includes all of my major projects
+# Programming embedded systems
+Automation systems built using electronics like transistors, displays, shift registers, and 555 timers which were programmed using microcontrollers - Arduino Uno & Raspberry Pi
